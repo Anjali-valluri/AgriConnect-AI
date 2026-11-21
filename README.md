@@ -1,4 +1,4 @@
-# FarmGenius
+# AgriConnect-AI
 
 > **Empowering Indian agriculture with AI, real-time data, and a beautiful user experience.**
 
